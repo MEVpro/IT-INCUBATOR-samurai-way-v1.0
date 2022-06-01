@@ -1,7 +1,7 @@
-import React from 'react';
-import './App.css';
-import {Technologies} from "./BackUp/Technologies";
-import {Header} from "./BackUp/Header";
+// import React from 'react';
+// import './App.css';
+// import {Technologies} from "./BackUp/Technologies";
+// import {Header} from "./BackUp/Header";
 
 function App() {
     return (
