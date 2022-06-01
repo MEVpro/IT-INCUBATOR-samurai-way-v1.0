@@ -1,8 +1,8 @@
 import React from 'react';
-import './Header.css';
+import classes from './Header.module.css';
 export const Header = () => {
     return (
-        <header className={'header'}>
+        <header className={classes.header}>
             <img src= 'https://freeiconshop.com/wp-content/uploads/edd/image-outline-filled.png' alt={"no img"}/>
         </header>
     )

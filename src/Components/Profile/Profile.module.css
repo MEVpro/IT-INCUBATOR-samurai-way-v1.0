@@ -1,0 +1,14 @@
+
+.content {
+    grid-area: c;
+    background-color: aqua;
+}
+.picture_main img{
+    width: 1000px;
+}
+.picture_avatar img{
+    width: 200px;
+}
+.item {
+    color: green;
+}
